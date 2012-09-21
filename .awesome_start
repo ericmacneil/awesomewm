@@ -1,0 +1,5 @@
+#!/bin/sh
+xrandr --output HDMI1 --mode 1920x1200 &
+gnome-settings-daemon &
+exec awesome
+
