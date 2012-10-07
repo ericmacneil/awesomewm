@@ -1,5 +1,13 @@
 #!/bin/sh
 xrandr --output HDMI1 --mode 1920x1200 &
 gnome-settings-daemon &
+thunderbird &
+pidgin &
+hotot &
+smuxi-frontend-gnome &
+midori &
+redshift &
+/usr/local/bin/CrashPlanDesktop &
+~/.dropbox-dist/dropboxd &
 exec awesome
 
