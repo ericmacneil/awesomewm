@@ -1,9 +1,0 @@
-#PLACE IN /usr/share/xsessions/ to run .awesome_start at startup
-
-[Desktop Entry]
-Encoding=UTF-8
-Name=Awesome WM
-Comment=With Gnome-Session-Daemon
-Exec=/home/eric/.awesome/.awesome_start
-Type=XSession
-Name[en_US]=awesomewm.desktop
